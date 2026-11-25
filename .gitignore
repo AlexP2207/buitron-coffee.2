@@ -1,0 +1,12 @@
+node_modules/
+**/node_modules/
+build/
+dist/
+.env
+**/.env
+Backend_duplicado/
+/ProyectoREACT (4)/
+/FrontEnd_respaldo/
+/buitrn-coffee/
+/Backend_duplicado/
+*.zip
